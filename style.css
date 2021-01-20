@@ -1,0 +1,30 @@
+p{
+font-size:20px;
+color: whitesmoke;
+}
+h1{
+width: 70px;    
+margin: 0px auto;
+color: yellow;
+border-color: whitesmoke;
+border-width: 10px;
+border-style: outset;
+}
+.poop
+{
+    color: rgb(241, 241, 144);
+    font-style: italic;
+}
+.aah
+{
+    font-size: 150px;
+    width: 40%;    
+top: -10px;
+position: relative ;
+margin: 0px auto;
+color: yellow;
+border-color: whitesmoke;
+border-width: 10px;
+border-style: dotted;
+font-style: italic;
+}
